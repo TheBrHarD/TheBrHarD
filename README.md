@@ -47,11 +47,9 @@
   <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=TheBrHarD&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-</div> <br>
-
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-<a href = "mailto:bruno_manso12@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
+<a href = "mailto:bruno_manso12@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Mail&logoColor=FFFFFF&label=" target="_blank"></a>
 </a>
 <a id="linkedin" href="https://www.linkedin.com/in/bruno-wagner-699410236/">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
