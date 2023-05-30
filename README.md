@@ -1,11 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Iago+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Iago+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Bruno Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
-
-### Olá, seja bem vindo ao meu GitHub!
-   
-#### Estou disponibilizando alguns projetos que realizei na faculdade e em jogos. Espero que ajude você!
-
-## Status:
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheBrHarD&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBrHarD&theme=dark&utcOffset=8)|
 |---|---|
@@ -65,7 +59,3 @@
   
 </div> <br>
 
-
-## :snake: Activities :
-
-![Snake animation](https://github.com/TheBrHarD/TheBrHarD/blob/output/github-contribution-grid-snake.svg)
