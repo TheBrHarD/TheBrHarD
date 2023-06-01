@@ -1,15 +1,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Bruno+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Bruno Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheBrHarD&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBrHarD&theme=dark&utcOffset=8)|
-|---|---|
-<br> 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheBrHarD&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheBrHarD&theme=dark&utcOffset=8) |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+<br>
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=TheBrHarD&theme=dark&hide_border=false)|![Bruno's Stats](https://github-readme-stats.vercel.app/api?username=TheBrHarD&theme=dark&show_icons=true&hide_border=true&count_private=true)
-|---|---|
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=TheBrHarD&theme=dark&hide_border=false) | ![Bruno's Stats](https://github-readme-stats.vercel.app/api?username=TheBrHarD&theme=dark&show_icons=true&hide_border=true&count_private=true) |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheBrHarD&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheBrHarD&theme=dark)|
-|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheBrHarD&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheBrHarD&theme=dark) |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
