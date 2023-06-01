@@ -11,7 +11,6 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheBrHarD&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheBrHarD&theme=dark) |
 |----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-<br>
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
@@ -50,9 +49,8 @@
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-<a href = "mailto:bruno_manso12@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Mail&logoColor=FFFFFF&label=" target="_blank"></a>
+<a href = "mailto:bruno_manso12@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Outlook&color=000000&logo=Mail&logoColor=FFFFFF&label=" target="_blank"></a>
 </a>
-<a id="linkedin" href="https://www.linkedin.com/in/bruno-wagner-699410236/">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
+<a id="linkedin" href="https://www.linkedin.com/in/bruno-wagner-699410236/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linkedin&color=000000&logo=Linkedin&logoColor=FFFFFF&label="/>
 </a>
 
